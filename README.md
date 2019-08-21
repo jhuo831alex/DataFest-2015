@@ -26,7 +26,9 @@ The main goal of this project was to answer one question: "If a customer leaves 
 * 3-fold cross validation 
 * Model accuracy: 86.8%
 
-For more information: [Deck](https://github.com/jhuo831alex/DataFest2015_Edmund/blob/master/141%20PPT.pdf)
+For more information: 
+- [Deck](https://github.com/jhuo831alex/DataFest2015_Edmund/blob/master/141%20PPT.pdf)
+- [Project Report](https://github.com/jhuo831alex/DataFest2015_Edmunds/blob/master/Stats%20141%20Final%20Project%20Report.pdf)
 
 <!-- ABOUT DataFest -->
 ## About DataFest
