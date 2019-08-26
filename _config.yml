@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+title: "Classify Buyers and Non-buyers on Edmunds.com"
+description: Implemented binary logistic classification using XGBoost, and tuned hyperparameters with random search in parallel. 
